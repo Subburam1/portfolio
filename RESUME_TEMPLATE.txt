@@ -1,0 +1,86 @@
+<!-- 
+IMPORTANT: This is a placeholder. To use the "Download Resume" feature:
+1. Create a professional PDF resume
+2. Name it "resume.pdf"
+3. Place it in the same folder as index.html
+
+The HTML button already links to "resume.pdf", so once you add the file,
+the download functionality will work automatically.
+
+Sample Resume Outline for reference:
+-->
+
+SUBBURAMAN V
+📍 Thanjavur, Tamil Nadu, India | 📱 +91 9360730876 | 📧 subburaman2005@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/subburaman-v | GitHub: https://github.com/Subburam1
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CAREER OBJECTIVE
+Aspiring Web Engineer Intern seeking to build secure, scalable, and efficient web and backend 
+systems while gaining real-world industry experience and contributing to impactful products.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EDUCATION
+Bachelor of Technology – Artificial Intelligence and Data Science
+M. Kumarasamy College of Engineering, Karur | 2023 – 2027 | CGPA: 6.8
+
+12th Grade (Tamil Nadu State Board) – 75.5%
+Dr. J. C. Kumarappa Matric Higher Secondary School | 2023
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TECHNICAL SKILLS
+Programming Languages: Java, Python
+Web & Backend: Backend Logic, CRUD Operations, Data Handling
+Database: SQL, MySQL
+Tools & Technologies: IBM SPSS Modeler
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PROJECTS
+
+1. BlurD – RAG Based Security Preservation
+   • Developed a document redaction system for identifying and concealing sensitive information
+   • Implemented OCR (Optical Character Recognition) and MRZ (Machine Readable Zone) techniques
+   • Integrated Retrieval-Augmented Generation (RAG) for enhanced processing
+   • Handled backend processing and database integration
+   
+2. Car Rental System
+   • Built a comprehensive backend-driven system for car rental management
+   • Managed customer profiles, vehicle inventory, booking operations, and payment processing
+   • Designed efficient MySQL database queries and data operations
+   • Implemented CRUD operations for all system components
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CERTIFICATIONS & ACHIEVEMENTS
+• NPTEL – Industrial Internet of Things (Completed 2025)
+• Python 101 Fundamentals – IBM Certification
+• SQL Basics – IBM Certification
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AREAS OF INTEREST
+• Web Development
+• Backend Development
+• Database Management
+• Software Engineering
+• Cloud Technologies
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INSTRUCTIONS FOR PDF CREATION:
+To use the "Download Resume" button on the portfolio:
+1. Convert this text to a professional PDF using:
+   - Microsoft Word/Google Docs
+   - Canva (professional resume templates)
+   - LaTeX (for technical resumes)
+   - Online tools like novoresume.com or resumemaker.online
+
+2. Save as "resume.pdf" in the same directory as index.html
+
+3. The download button will automatically work!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
